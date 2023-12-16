@@ -1,0 +1,8 @@
+{
+	"/": [
+		"src/routes/+page.server.js"
+	],
+	"/movimientos": [
+		"src/routes/movimientos/+server.js"
+	]
+}
